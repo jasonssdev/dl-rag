@@ -20,4 +20,5 @@ dependencies:
   - python-dotenv
   - seaborn
   - xlrd
+  - openai
 prefix: /opt/anaconda3/envs/rag-py312
